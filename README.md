@@ -16,7 +16,7 @@ A Streamlit-based dashboard that simulates intelligent web crawling on Amazon to
 
 ---
 
-## 🖼️ Screenshots (Optional)
+## 🖼️ Screenshots
 
 ![Dashboard Screenshot](StreamlitDB.png)
 
