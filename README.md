@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ## ▶️ Running the App
 
 ```bash
-streamlit run dashboard.py
+python -m streamlit run Dashboard.py
 ```
 
 ---
@@ -65,7 +65,8 @@ streamlit run dashboard.py
 Just run:
 
 ```bash
-streamlit run dashboard.py
+cd Streamlit
+python -m streamlit run Dashboard.py
 ```
 
 ---
@@ -111,7 +112,7 @@ pip freeze > requirements.txt
 1. Push your project to GitHub.
 2. Go to Streamlit Cloud.
 3. Click “New App”, select your repo and branch.
-4. Set the entry point to `dashboard.py`.
+4. Set the entry point to `Dashboard.py`.
 5. Click Deploy.
 
 ### Local Deployment
@@ -119,5 +120,5 @@ pip freeze > requirements.txt
 Just run:
 
 ```bash
-streamlit run dashboard.py
+python -m streamlit run Dashboard.py
 ```
