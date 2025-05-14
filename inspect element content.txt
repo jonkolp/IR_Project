@@ -1,0 +1,37 @@
+url : 	https://www.amazon.com/hz/rhf?currentPageType=Search&currentSubPageType=List&excludeAsin=&fieldKeywords=&k=smartphones&keywords=&search=&auditEnabled=&previewCampaigns=&forceWidgets=&searchAlias=&cardJSPresent=true
+respose : HTTP/2 200 
+content-type: application/json;charset=UTF-8
+server: Server
+date: Fri, 09 May 2025 18:13:47 GMT
+
+request : GET /hz/rhf?currentPageType=Search&currentSubPageType=List&excludeAsin=&fieldKeywords=&k=smartphones&keywords=&search=&auditEnabled=&previewCampaigns=&forceWidgets=&searchAlias=&cardJSPresent=true HTTP/2
+Host: www.amazon.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+X-Requested-With: XMLHttpRequest
+Connection: keep-alive
+Referer: https://www.amazon.com/s?k=smartphones
+Cookie: aws-ubid-main=958-4014882-0730417; aws-userInfo=%7B%22arn%22%3A%22arn%3Aaws%3Asts%3A%3A637423644974%3Aassumed-role%2Fvoclabs%2Fuser3115686%5Cu003dyoussef.ahmed46%40msa.edu.eg%22%2C%22alias%22%3A%22637423644974%22%2C%22username%22%3A%22assumed-role%252Fvoclabs%252Fuser3115686%253Dyoussef.ahmed46%2540msa.edu.eg%22%2C%22keybase%22%3A%22drrjyqEq1Y1BDGeQLYrJu%2FSkI3eFZLdaqUyQt1LSuq8%5Cu003d%22%2C%22issuer%22%3A%22https%3A%2F%2Flabs.vocareum.com%22%2C%22signinType%22%3A%22PUBLIC%22%7D; aws-userInfo-signed=eyJ0eXAiOiJKV1MiLCJrZXlSZWdpb24iOiJ1cy1lYXN0LTEiLCJhbGciOiJFUzM4NCIsImtpZCI6ImU4M2RhYjg3LWIwOTItNGU3Yy04ODI3LWI3NDM4NzU4NDg3ZiJ9.eyJzdWIiOiI2Mzc0MjM2NDQ5NzQiLCJzaWduaW5UeXBlIjoiUFVCTElDIiwiaXNzIjoiaHR0cHM6XC9cL2xhYnMudm9jYXJldW0uY29tIiwia2V5YmFzZSI6ImRycmp5cUVxMVkxQkRHZVFMWXJKdVwvU2tJM2VGWkxkYXFVeVF0MUxTdXE4PSIsImFybiI6ImFybjphd3M6c3RzOjo2Mzc0MjM2NDQ5NzQ6YXNzdW1lZC1yb2xlXC92b2NsYWJzXC91c2VyMzExNTY4Nj15b3Vzc2VmLmFobWVkNDZAbXNhLmVkdS5lZyIsInVzZXJuYW1lIjoiYXNzdW1lZC1yb2xlJTJGdm9jbGFicyUyRnVzZXIzMTE1Njg2JTNEeW91c3NlZi5haG1lZDQ2JTQwbXNhLmVkdS5lZyJ9.QF_8F2k8Q4UxJnLC-UmQxRaBnKdteBel7Lenzh2Va5FOR1W3hREhhY-0YcS4Svld26-tOqp7GxG7RSl5YvT8q6HANeyHQ4BJNjmo-WQlYVhpSYeeGUuXK703gqLMSxMl; session-id=139-6024937-4562007; session-id-time=2082787201l; i18n-prefs=USD; csm-hit=tb:0C8KKNGB964ZZGSXZF4J+s-DVGZ3W6T1ZP7HW2EHXV0|1746814419183&t:1746814419183&adb:adblk_no; ubid-main=130-4015132-6288448; noflush_awsccs_sid=7540574eb37d47498ce27b78b46a7a4be61ec5795d36ca1110ec7f5e98b7d2fe; awsc-color-theme=light; session-token=nJypY7+t8BIQfSPEgWarn7JmSsOMtgZCKwYnmaa6/KBIlMxaqalzvkzSTm86vW5+eLLF3aIdy36Xc8u8iVBhGQrodWKry2MumJRUYGUJxORp1E3BUNHhzN5BDyGQ6/oh2kjt6xRLip1IEBcqHAkpDF/oOLqXZh6Z6gCW6qbPJNODOPff+U0OVJ6g0BCjoNBnYvgJIlIDHss57wzKeIQGfplZP8uV5JuxjO61Vt7ddkjQUKERj6Y/Z1EJJ754lh3mzTqPF2gWcLli9NlL/l/rdNCI4tbCQKisA+uyCZvcr5T4aSr36rLClnKizKQAJiHKJcMl+Bsb2VQo8ADFZgRrI6iYE6zeLct+; rxc=AKU4YTAx38ARNNjGeEg; skin=noskin; sp-cdn="L5Z9:EG"
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Pragma: no-cache
+Cache-Control: no-cache
+x-amz-rid: K5P0RFEV9DXD53PKEBWX
+x-content-type-options: nosniff
+x-xss-protection: 1;
+accept-ch-lifetime: 86400
+content-encoding: gzip
+content-security-policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+content-security-policy-report-only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+accept-ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+vary: Content-Type,Accept-Encoding,User-Agent
+x-frame-options: SAMEORIGIN
+x-cache: Miss from cloudfront
+via: 1.1 a323fb2596392c6fc1b0f3d822453640.cloudfront.net (CloudFront)
+x-amz-cf-pop: MRS52-P6
+x-amz-cf-id: X_LtPirF_8DGXhBHsyksqbnyc09P3j3GOJbsW4kyT0IWbk1ZGz6QGA==
+X-Firefox-Spdy: h2
